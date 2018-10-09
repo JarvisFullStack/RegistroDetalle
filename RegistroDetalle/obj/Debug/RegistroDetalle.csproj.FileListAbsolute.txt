@@ -1,0 +1,16 @@
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\RegistroDetalle.exe.config
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\RegistroDetalle.exe
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\RegistroDetalle.pdb
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\EntityFramework.dll
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\EntityFramework.xml
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.csprojAssemblyReference.cache
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.MainForm.resources
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.Properties.Resources.resources
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.UI.Registros.rPersonas.resources
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.csproj.GenerateResource.cache
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.csproj.CopyComplete
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.exe
+C:\Users\JarvisXxX\Source\Repos\RegistroDetalle\RegistroDetalle\obj\Debug\RegistroDetalle.pdb
